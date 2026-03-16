@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Zodiac Discovery System
 
 This project is a simple Python script that determines your Zodiac sign based on your date of birth and provides detailed information about your sign.
@@ -31,3 +32,6 @@ Enter your Date of Birth (YYYY-MM-DD): 1995-05-20
 
 ## License
 This project is provided for educational purposes.
+=======
+# Zodiac-Signs-Info
+Discover your Zodiac: A smart Python utility to uncover astrological insights and personality traits using date-driven logic.
