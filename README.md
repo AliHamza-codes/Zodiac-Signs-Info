@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Zodiac Discovery System
 
 This project is a simple Python script that determines your Zodiac sign based on your date of birth and provides detailed information about your sign.
